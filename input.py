@@ -1,0 +1,8 @@
+name = input('what is your name? ')
+color = input('what is your favourite color? ')
+out =(name + ' likes '  + color)
+print(out)
+name = input ('what is your father name')
+address = input ('mention address')
+out = (name +' samastipur '+ address)
+print(out)
